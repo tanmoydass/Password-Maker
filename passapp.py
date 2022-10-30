@@ -1,5 +1,3 @@
-%%writefile passapp.py 
-#%%writefile is amagic command to create passapp.py file
 import streamlit as st
 import joblib
 import random
