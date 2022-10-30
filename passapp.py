@@ -24,3 +24,7 @@ if st.button('Click here to make your password'):
   pass_maker="".join(random.sample(model,8))
   st.write(pass_maker) 
   st.success('Successfully created!', icon="✅")
+
+
+
+  
