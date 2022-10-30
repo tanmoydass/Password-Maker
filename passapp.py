@@ -24,8 +24,6 @@ if st.button('Click here to make your password'):
   st.success('Successfully created!', icon="✅")
 
 
-
-
    
 
 
